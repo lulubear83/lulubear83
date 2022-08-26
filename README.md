@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @DataShells81
+- 👋🏾 Hi, I’m Sherline
 - 👀 I’m interested in New Tech, Space Exploration, & Data Analysis
 - 🌱 I’m currently learning R Programming
 - ▶ I’m looking to collaborate on data projects
