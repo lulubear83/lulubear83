@@ -1,6 +1,5 @@
-### - 👋🏾 Hi, I’m Sherline (mostly go by Lu)
-- 👀 I’m interested in Statistics, Space Exploration, & Credit Data Analysis
-- 🌱 I’m currently learning more python
+### - 👋🏾 Hi, I’m Sherline
+- 👀 I’m interested in Statistics, Space Exploration, & Data Analysis
 - ▶ I’m looking to collaborate on data cleaning projects
 - 📫 connect: folllow for follow
 - 😃 pronouns: she/her/hers
