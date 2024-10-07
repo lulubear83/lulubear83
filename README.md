@@ -1,6 +1,6 @@
 ### - 👋🏾 Hi, I’m Sherline
-- 👀 I’m interested in Statistics, Space Exploration, & Data Analysis
-- ▶ I’m looking to collaborate on data cleaning projects
+- 👀 I’m interested in Python, Machine Learning, and Sapce Exploration
+- ▶ I’m looking to collaborate on data science projects
 - 📫 connect: folllow for follow
 - 😃 pronouns: she/her/hers
 - 🎥 fun fact: I like to edit videos and photos
